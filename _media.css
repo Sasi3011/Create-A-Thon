@@ -1,4 +1,4 @@
-.about-container .left-about p{
+/* .about-container .left-about p{
     padding-left: 0;
 }
 
@@ -199,7 +199,7 @@
     }
 }
 
-@media screen and (max-width:1070px){
+/* @media screen and (max-width:1070px){
     .about-container{
         grid-template-columns: repeat(1, 1fr);
         .right-about{
@@ -217,9 +217,9 @@
             }
         }
     }
-}
+} */
 
-@media screen and (max-width:970px){
+/* @media screen and (max-width:970px){
     .container{
         padding: 7rem 6rem;
     }
@@ -278,4 +278,4 @@
             }
         }
     }
-}
+}  */
